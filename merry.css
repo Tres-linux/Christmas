@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(0, 0, 0);
+    background-color:darkgoldenrod;
 }
 .hi{
     color: rgb(255, 12, 12);
@@ -16,22 +16,22 @@ body{
     left: 150px;
 }
 .Dicembre{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 40px;
 }
 .Inf{
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 40px;
 }
 .Sabrina{
     color: rgb(255, 0, 0);
     font-size: 35px;
-    text-align: left;
+    text-align: center;
 }
 .Menù{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 35px;
     text-align: center;
 }
@@ -40,4 +40,9 @@ body{
 }
 .vnv{
     text-align: center;
+}
+.Vi{
+    color: black;
+    text-align: center;
+    font-size: 35px;
 }
