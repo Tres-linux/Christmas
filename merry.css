@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(0, 0, 0);
+}
+.hi{
+    color: rgb(255, 12, 12);
+    text-align: center;
+}
+.linea{
+    width: 300px;
+    height: 5px;
+    border-radius: 30px;
+    background-color: white;
+}
+.imag{
+    height: 400px;
+}
+.dov{
+    height: 150px;
+    width: 150px;
+}
+.dev{
+    height: 150px;
+    left: 150px;
+}
+.Dicembre{
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+.Inf{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.Sabrina{
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+}
+.Menù{
+    color: white;
+    font-size: 45px
+}
