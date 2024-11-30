@@ -18,7 +18,7 @@ body{
 }
 .Dicembre{
     color: rgb(255, 255, 255);
-    text-align: center
+    text-align: center;
     font-size: 40px;
 }
 .Inf{
@@ -28,12 +28,12 @@ body{
 }
 .Sabrina{
     color: rgb(255, 0, 0);
-    font-size: 45px;
+    font-size: 35px;
     text-align: center;
 }
 .Menù{
     color: white;
-    font-size: 45px;
+    font-size: 35px;
     text-align: center;
 }
 .imag{
