@@ -19,11 +19,12 @@ body{
 .Dicembre{
     color: rgb(255, 255, 255);
     text-align: center
+    font-size: 40px;
 }
 .Inf{
     color: white;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
 }
 .Sabrina{
     color: rgb(255, 0, 0);
