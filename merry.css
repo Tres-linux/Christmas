@@ -11,20 +11,14 @@ body{
     border-radius: 30px;
     background-color: white;
 }
-.imag{
-    height: 400px;
-}
-.dov{
-    height: 150px;
-    width: 150px;
-}
 .dev{
     height: 150px;
     left: 150px;
+
 }
 .Dicembre{
     color: rgb(255, 255, 255);
-    text-align: right;
+    text-align: center
 }
 .Inf{
     color: white;
@@ -34,8 +28,16 @@ body{
 .Sabrina{
     color: rgb(255, 0, 0);
     font-size: 45px;
+    text-align: center;
 }
 .Menù{
     color: white;
-    font-size: 45px
+    font-size: 45px;
+    text-align: center;
+}
+.imag{
+    height: 400px;
+}
+.vnv{
+    text-align: center;
 }
